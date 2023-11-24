@@ -1,5 +1,5 @@
 //your JS code here. If required.
-function submitform();{
+function submitform(){
 	const firstName = document.getElementById('FN').value;
     const lastName = document.getElementById('LN').value;
     const phoneNumber = document.getElementById('fno').value;
